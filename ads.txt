@@ -1,0 +1,3 @@
+# AdPlugg Network
+adplugg.com, 22103, DIRECT
+appnexus.com, 12224, DIRECT
